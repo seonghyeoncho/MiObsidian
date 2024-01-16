@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "@Resource/Programmers/2022 Kakao Blind/사라지는 발판.md",
+                "file": "@Resource/Programmers/2022 Kakao Blind/양과 늑대.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "@Resource/Programmers/2022 Kakao Blind/사라지는 발판.md",
+                "file": "@Resource/Programmers/2022 Kakao Blind/양과 늑대.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "@Resource/Programmers/2022 Kakao Blind/사라지는 발판.md",
+                "file": "@Resource/Programmers/2022 Kakao Blind/양과 늑대.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "@Resource/Programmers/2022 Kakao Blind/사라지는 발판.md"
+                "file": "@Resource/Programmers/2022 Kakao Blind/양과 늑대.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "8d3a36e9e632f44a",
   "lastOpenFiles": [
-    "@Resource/Algorithm/Study/Game Theory/About Game Theory.md",
     "@Resource/Programmers/2022 Kakao Blind/사라지는 발판.md",
+    "@Resource/Algorithm/Study/Game Theory/Game Theory.md",
     "@Resource/Algorithm/Study/Game Theory",
     "나눠서 가져가기.md",
     "@Resource/Programmers/2022 Kakao Blind/파괴되지 않은 건물.md",
