@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9bc5bc03aa35e483",
+        "id": "01dcf7075c401831",
         "type": "tabs",
         "children": [
           {
-            "id": "8a682ad5bc177390",
+            "id": "8d3a36e9e632f44a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "@Resource/Programmers/2022 Kakao Blind/파괴되지 않은 건물.md",
+                "file": "@Resource/Programmers/2022 Kakao Blind/사라지는 발판.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "@Resource/Programmers/2022 Kakao Blind/파괴되지 않은 건물.md",
+                "file": "@Resource/Programmers/2022 Kakao Blind/사라지는 발판.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "@Resource/Programmers/2022 Kakao Blind/파괴되지 않은 건물.md",
+                "file": "@Resource/Programmers/2022 Kakao Blind/사라지는 발판.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "@Resource/Programmers/2022 Kakao Blind/파괴되지 않은 건물.md"
+                "file": "@Resource/Programmers/2022 Kakao Blind/사라지는 발판.md"
               }
             }
           }
@@ -146,13 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8a682ad5bc177390",
+  "active": "8d3a36e9e632f44a",
   "lastOpenFiles": [
-    "@Resource/Programmers/2022 Kakao Blind/양과 늑대.md",
+    "@Resource/Algorithm/Study/Game Theory/About Game Theory.md",
+    "@Resource/Programmers/2022 Kakao Blind/사라지는 발판.md",
+    "@Resource/Algorithm/Study/Game Theory",
+    "나눠서 가져가기.md",
     "@Resource/Programmers/2022 Kakao Blind/파괴되지 않은 건물.md",
+    "@Resource/Programmers/2022 Kakao Blind/양과 늑대.md",
     "블록 삭제.md",
     "다른 bean들간에 의존성을 주입하여 서로 협력하고나 필요한 리소스에 접근.md",
-    "누적합.md",
+    "@Resource/Algorithm/Study/Prefix sum/누적합.md",
     "@Resource/Beakjoon/퇴사.md",
     "@Resource/Beakjoon/Solved/계단 오르기.md",
     "@Resource/Algorithm/기본 준비.md",
@@ -171,10 +175,7 @@
     "@Resource/Algorithm/Study/DP/About Dynamic Programming.md",
     "@Resource/Algorithm/Study/Prefix sum/부분합.md",
     "@Resource/Programmers/PCCP/석유 시추.md",
-    "@Resource/Beakjoon/Solved/미로 탐색.md",
     "@Resource/Programmers/PCCP",
-    "@Resource/Algorithm/Study/Graph/DFS.md",
-    "@Resource/Programmers/2018 Kakao Blind 1차/비밀지도.md",
     "@Resource/Programmers/2022 Kakao Blind",
     "@Resource/Algorithm/Study/Cache",
     "@Resource/Programmers/2018 Kakao Blind 1차",
@@ -183,7 +184,6 @@
     "@Resource/Beakjoon/Solved",
     "@Resource/Beakjoon",
     "@Resource/Algorithm/Study/DP/Problems",
-    "@Resource/Optimization Theory",
     "image.png",
     "public.png",
     "img1.daumcdn.png",
