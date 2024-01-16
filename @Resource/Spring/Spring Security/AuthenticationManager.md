@@ -1,0 +1,3 @@
+- 실제 인증 역할을 하는 [[AuthenticationProvider]]를 관리
+- [[AuthenticationFilter]]로부터 Authentication 객체를 받는다
+- 인증  처리를 할 수 있는 [[AuthenticationProvider]]에게 인증 역할 위임

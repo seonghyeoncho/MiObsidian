@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "ef80ad6a0937de20",
+    "type": "split",
+    "children": [
+      {
+        "id": "9bc5bc03aa35e483",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a682ad5bc177390",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "@Resource/Programmers/2022 Kakao Blind/파괴되지 않은 건물.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "45e5633e97d9ac29",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e185fb6d949822d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "45cca32524532238",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "85b40a89f50c0102",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "42104a7c7bbc0bbc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "9398d02d1d1a4ea2",
+    "type": "split",
+    "children": [
+      {
+        "id": "13ad7c971c68cda3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7fd2da81ba1e186",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "@Resource/Programmers/2022 Kakao Blind/파괴되지 않은 건물.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bbec44a6ce8ffc58",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "@Resource/Programmers/2022 Kakao Blind/파괴되지 않은 건물.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "862992f4e40478e0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "83f0fadcac1a474a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "@Resource/Programmers/2022 Kakao Blind/파괴되지 않은 건물.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8a682ad5bc177390",
+  "lastOpenFiles": [
+    "@Resource/Programmers/2022 Kakao Blind/양과 늑대.md",
+    "@Resource/Programmers/2022 Kakao Blind/파괴되지 않은 건물.md",
+    "블록 삭제.md",
+    "다른 bean들간에 의존성을 주입하여 서로 협력하고나 필요한 리소스에 접근.md",
+    "누적합.md",
+    "@Resource/Beakjoon/퇴사.md",
+    "@Resource/Beakjoon/Solved/계단 오르기.md",
+    "@Resource/Algorithm/기본 준비.md",
+    "@Resource/Beakjoon/시험 감독.md",
+    "@Resource/Beakjoon/Solved/N과 M(1).md",
+    "@Resource/Algorithm/문자열 관련 함수.md",
+    "@Resource/Programmers/2022 Kakao Blind/주차 요금 계산.md",
+    "@Resource/Programmers/2022 Kakao Blind/신고 결과 받기.md",
+    "@Resource/Programmers/2022 Kakao Blind/k진수에서 소수 개수 구하기.md",
+    "@Resource/Algorithm/수학 관련 함수.md",
+    "@Resource/Programmers/2018 Kakao Blind 1차/셔틀버스.md",
+    "@Resource/Algorithm/Study/Graph/BFS.md",
+    "@Resource/Programmers/2018 Kakao Blind 1차/추석 트래픽.md",
+    "@Resource/Programmers/2018 Kakao Blind 1차/뉴스 클러스터링.md",
+    "@Resource/Algorithm/Study/Graph/Dijkstra.md",
+    "@Resource/Algorithm/Study/DP/About Dynamic Programming.md",
+    "@Resource/Algorithm/Study/Prefix sum/부분합.md",
+    "@Resource/Programmers/PCCP/석유 시추.md",
+    "@Resource/Beakjoon/Solved/미로 탐색.md",
+    "@Resource/Programmers/PCCP",
+    "@Resource/Algorithm/Study/Graph/DFS.md",
+    "@Resource/Programmers/2018 Kakao Blind 1차/비밀지도.md",
+    "@Resource/Programmers/2022 Kakao Blind",
+    "@Resource/Algorithm/Study/Cache",
+    "@Resource/Programmers/2018 Kakao Blind 1차",
+    "@Resource/Programmers",
+    "@Resource/Beakjoon/Untitled",
+    "@Resource/Beakjoon/Solved",
+    "@Resource/Beakjoon",
+    "@Resource/Algorithm/Study/DP/Problems",
+    "@Resource/Optimization Theory",
+    "image.png",
+    "public.png",
+    "img1.daumcdn.png",
+    "spring-overview.png",
+    "Untitled.canvas"
+  ]
+}
