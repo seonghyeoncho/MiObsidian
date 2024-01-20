@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "@Resource/Algorithm/기본 준비.md",
+                "file": "@Resource/Beakjoon/Solved/돌 게임 6.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "@Resource/Algorithm/기본 준비.md",
+                "file": "@Resource/Beakjoon/Solved/돌 게임 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "@Resource/Algorithm/기본 준비.md",
+                "file": "@Resource/Beakjoon/Solved/돌 게임 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "@Resource/Algorithm/기본 준비.md"
+                "file": "@Resource/Beakjoon/Solved/돌 게임 6.md"
               }
             }
           }
@@ -149,6 +149,8 @@
   "active": "8d3a36e9e632f44a",
   "lastOpenFiles": [
     "@Resource/Algorithm/Study/Game Theory/Game Theory.md",
+    "@Resource/Beakjoon/Solved/돌 게임 6.md",
+    "@Resource/Algorithm/기본 준비.md",
     "@Resource/Beakjoon/Solved/카드 게임.md",
     "@Resource/Beakjoon/Solved/돌 게임.md",
     "@Resource/Optimization Theory/DP.md",
@@ -162,7 +164,6 @@
     "@Resource/Algorithm/Study/Prefix sum/누적합.md",
     "@Resource/Beakjoon/퇴사.md",
     "@Resource/Beakjoon/Solved/계단 오르기.md",
-    "@Resource/Algorithm/기본 준비.md",
     "@Resource/Beakjoon/시험 감독.md",
     "@Resource/Beakjoon/Solved/N과 M(1).md",
     "@Resource/Algorithm/문자열 관련 함수.md",
@@ -174,7 +175,6 @@
     "@Resource/Algorithm/Study/Graph/BFS.md",
     "@Resource/Programmers/2018 Kakao Blind 1차/추석 트래픽.md",
     "@Resource/Programmers/2018 Kakao Blind 1차/뉴스 클러스터링.md",
-    "@Resource/Algorithm/Study/Graph/Dijkstra.md",
     "@Resource/Programmers/PCCP",
     "@Resource/Programmers/2022 Kakao Blind",
     "@Resource/Algorithm/Study/Cache",

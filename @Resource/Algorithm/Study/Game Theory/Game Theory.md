@@ -56,6 +56,9 @@ int main() {
 - 현재 상태의 grundy number가 0이면 후공을 통해 상대가 0을 깨트리도록 만든다
 - 현재 상태의 grundy number가 0이 아니면 선공을 통해 0으로 만든다.
 
+grundy number => *해당 집합에 존재하지 않는 가장 작은 수*
+
+
 ## Minimax
 - 나를 기준으로 보고 상대의 점수가 min이 되도록 선택하도록 한다.
 - 두 경기자를 MAX MIN으로 부른다.
