@@ -63,4 +63,3 @@ int main() {
 - 순차적 게임
 - zero-sum game
 - MIN은 숫자가 작을 수록 이기고, MAX는 숫자가 클 수록 이길 확률이 높다
-- 
