@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "@Resource/Beakjoon/Solved/카드 게임.md",
+                "file": "@Resource/Algorithm/Study/Game Theory/Game Theory.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "@Resource/Beakjoon/Solved/카드 게임.md",
+                "file": "@Resource/Algorithm/Study/Game Theory/Game Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "@Resource/Beakjoon/Solved/카드 게임.md",
+                "file": "@Resource/Algorithm/Study/Game Theory/Game Theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "@Resource/Beakjoon/Solved/카드 게임.md"
+                "file": "@Resource/Algorithm/Study/Game Theory/Game Theory.md"
               }
             }
           }
@@ -146,10 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8d3a36e9e632f44a",
+  "active": "45cca32524532238",
   "lastOpenFiles": [
-    "@Resource/Algorithm/Study/Game Theory/Game Theory.md",
     "@Resource/Beakjoon/Solved/카드 게임.md",
+    "@Resource/Algorithm/Study/Game Theory/Game Theory.md",
     "@Resource/Beakjoon/Solved/돌 게임.md",
     "@Resource/Optimization Theory/DP.md",
     "@Resource/Programmers/2022 Kakao Blind/양과 늑대.md",
