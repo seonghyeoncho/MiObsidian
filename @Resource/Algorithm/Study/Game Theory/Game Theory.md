@@ -63,3 +63,50 @@ int main() {
 - 순차적 게임
 - zero-sum game
 - MIN은 숫자가 작을 수록 이기고, MAX는 숫자가 클 수록 이길 확률이 높다
+
+```cpp
+using namespace std;
+
+int c[1001] ={0};
+int dp[1001][1001][2];
+
+int reculsive_game(int start, int end, int turn) {
+    int &ret = dp[start][end][turn];
+    if(ret != -1) return ret;
+    
+    if(start >= end) {
+        if(!turn) return ret = c[start];
+        return ret = 0;
+    }
+    
+    if(!turn) {
+        return ret = max(reculsive_game(start + 1, end, 1) + c[start], reculsive_game(start, end-1, 1) + c[end]);
+    } else {
+        return ret = min(reculsive_game(start + 1, end, 0), reculsive_game(start, end-1, 0));
+    }
+    
+}
+
+int main() {
+    ios::sync_with_stdio(0);
+    cin.tie(0), cout.tie(0);
+    
+    int t;
+    cin>>t;
+    
+    while(t--) {
+        memset(dp, -1, sizeof(dp));
+        
+        int n;
+        cin>>n;
+        
+        for(int i = 0; i< n; i++) {
+            cin>> c[i];
+        }
+        
+        cout<<reculsive_game(0, n-1, 0)<<"\n";
+    }
+    
+    return 0;
+}
+```
