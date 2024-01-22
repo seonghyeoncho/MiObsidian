@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "@Resource/Algorithm/Study/조합.md",
+                "file": "@Resource/Algorithm/Study/Combination/조합.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "@Resource/Algorithm/Study/조합.md",
+                "file": "@Resource/Algorithm/Study/Combination/조합.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "@Resource/Algorithm/Study/조합.md",
+                "file": "@Resource/Algorithm/Study/Combination/조합.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "@Resource/Algorithm/Study/조합.md"
+                "file": "@Resource/Algorithm/Study/Combination/조합.md"
               }
             }
           }
@@ -146,10 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "45cca32524532238",
+  "active": "8d3a36e9e632f44a",
   "lastOpenFiles": [
+    "@Resource/Algorithm/Study/Permutation/순열.md",
+    "@Resource/Algorithm/Study/Combination/조합.md",
+    "@Resource/Algorithm/Study/Permutation",
+    "@Resource/Algorithm/Study/Combination",
     "@Resource/Programmers/2024 Kakao Winter Internship/주사위 고르기.md",
-    "@Resource/Algorithm/Study/조합.md",
     "@Resource/Programmers/2024 Kakao Winter Internship/n + 1 카드 게임.md",
     "@Resource/Algorithm/Study/Graph/Cycle.md",
     "@Resource/Programmers/2024 Kakao Winter Internship/도넛과 막대 그래프.md",
@@ -175,15 +178,12 @@
     "@Resource/Beakjoon/시험 감독.md",
     "@Resource/Beakjoon/Solved/N과 M(1).md",
     "@Resource/Programmers/2022 Kakao Blind/주차 요금 계산.md",
-    "@Resource/Programmers/2022 Kakao Blind/신고 결과 받기.md",
     "@Resource/Programmers/PCCP",
     "@Resource/Programmers/2022 Kakao Blind",
     "@Resource/Algorithm/Study/Cache",
     "@Resource/Programmers/2018 Kakao Blind 1차",
     "@Resource/Programmers",
     "@Resource/Beakjoon/Untitled",
-    "@Resource/Beakjoon/Solved",
-    "@Resource/Beakjoon",
     "image.png",
     "public.png",
     "img1.daumcdn.png",
