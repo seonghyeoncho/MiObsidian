@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "@Resource/Algorithm/Study/Combination/중복 조합.md",
+                "file": "@Resource/Programmers/2022 Kakao Blind/양궁대회.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "@Resource/Algorithm/Study/Combination/중복 조합.md",
+                "file": "@Resource/Programmers/2022 Kakao Blind/양궁대회.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "@Resource/Algorithm/Study/Combination/중복 조합.md",
+                "file": "@Resource/Programmers/2022 Kakao Blind/양궁대회.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "@Resource/Algorithm/Study/Combination/중복 조합.md"
+                "file": "@Resource/Programmers/2022 Kakao Blind/양궁대회.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "8d3a36e9e632f44a",
   "lastOpenFiles": [
-    "@Resource/Algorithm/Study/Combination/조합.md",
     "@Resource/Algorithm/Study/Combination/중복 조합.md",
+    "@Resource/Programmers/2022 Kakao Blind/양궁대회.md",
+    "@Resource/Algorithm/Study/Combination/조합.md",
     "@Resource/Programmers/2024 Kakao Winter Internship/주사위 고르기.md",
     "완전탐색.md",
     "@Resource/Programmers/2024 Kakao Winter Internship/가장 많이 받은 선물.md",
@@ -177,7 +178,6 @@
     "@Resource/Algorithm/Study/Prefix sum/누적합.md",
     "@Resource/Beakjoon/퇴사.md",
     "@Resource/Beakjoon/Solved/계단 오르기.md",
-    "@Resource/Beakjoon/시험 감독.md",
     "@Resource/Programmers/PCCP",
     "@Resource/Programmers/2022 Kakao Blind",
     "@Resource/Algorithm/Study/Cache",
